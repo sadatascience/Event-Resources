@@ -1,4 +1,4 @@
-#San Antonio Data Science Meetup**
+# San Antonio Data Science Meetup
 Check out our group, 300+ Members! https://www.meetup.com/San-Antonio-Data-Science-Meetup/
 
 **Vision Statement**
